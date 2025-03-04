@@ -73,6 +73,6 @@ dashboard_sante_fabricant/
 
 [Nom de l'auteur]
 
-## Licence
+##  Licence
 
 [Informations de licence] 
